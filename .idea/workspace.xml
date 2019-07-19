@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8142e8e6-8307-4b41-b1a3-717dbf859ac3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/medium/AddTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leetcode/medium/WordDictionary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -33,13 +31,12 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/leetcode/medium/WordDictionary.java">
+        <entry file="file://$PROJECT_DIR$/src/com/leetcode/medium/AddNegaBinary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="76" column="25" lean-forward="true" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="25" />
+            <state relative-caret-position="382">
+              <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
               <folding>
-                <element signature="e#988#989#0" expanded="true" />
-                <element signature="e#1032#1033#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -98,6 +95,7 @@
         <option value="$PROJECT_DIR$/src/com/leetcode/medium/ReverseBetween.java" />
         <option value="$PROJECT_DIR$/src/com/leetcode/medium/AddTwoNumbers.java" />
         <option value="$PROJECT_DIR$/src/com/leetcode/medium/WordDictionary.java" />
+        <option value="$PROJECT_DIR$/src/com/leetcode/medium/AddNegaBinary.java" />
       </list>
     </option>
   </component>
@@ -178,6 +176,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="medium" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -239,9 +245,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WordDictionary">
-    <configuration name="AddOneRow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.medium.AddOneRow" />
+  <component name="RunManager" selected="Application.AddNegaBinary">
+    <configuration name="AddNegaBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.medium.AddNegaBinary" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -307,11 +313,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AddNegaBinary" />
         <item itemvalue="Application.WordDictionary" />
         <item itemvalue="Application.AddTwoNumbers" />
         <item itemvalue="Application.FindMinX" />
         <item itemvalue="Application.NumberToOne" />
-        <item itemvalue="Application.AddOneRow" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +350,7 @@
       <workItem from="1562935759918" duration="7805000" />
       <workItem from="1563108447544" duration="8400000" />
       <workItem from="1563255692890" duration="2452000" />
-      <workItem from="1563540614796" duration="2497000" />
+      <workItem from="1563540614796" duration="10015000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode">
       <created>1559529285381</created>
@@ -416,11 +422,25 @@
       <option name="project" value="LOCAL" />
       <updated>1562943755447</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="leetcode">
+      <created>1563543191510</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1563543191510</updated>
+    </task>
+    <task id="LOCAL-00012" summary="leetcode">
+      <created>1563552273014</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1563552273014</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93849000" />
+    <option name="totallyTimeSpent" value="101367000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -445,16 +465,16 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.2841823" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" visible="true" weight="0.44117647" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4986613" weight="0.44117647" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3297587" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3297587" />
       <window_info anchor="bottom" id="Docker" order="8" weight="0.32996207" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067025" side_tool="true" weight="0.34450403" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50133866" side_tool="true" weight="0.44117647" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32707775" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="12" sideWeight="0.49933067" visible="true" weight="0.328877" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -474,9 +494,9 @@
     <MESSAGE value="swordToOffer" />
     <MESSAGE value="sword" />
     <MESSAGE value="vivo" />
-    <MESSAGE value="leetcode" />
     <MESSAGE value="ByteDance" />
-    <option name="LAST_COMMIT_MESSAGE" value="ByteDance" />
+    <MESSAGE value="leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -939,11 +959,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/leetcode/medium/WordDictionary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
+        <state relative-caret-position="429">
           <caret line="76" column="25" lean-forward="true" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="25" />
           <folding>
             <element signature="e#988#989#0" expanded="true" />
             <element signature="e#1032#1033#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leetcode/medium/AddNegaBinary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
