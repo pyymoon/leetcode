@@ -12,14 +12,7 @@ public class ThreeSum {
      */
     public List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> lastList = new ArrayList<>();
-//        Arrays.sort(nums);
         Map<Integer, List<Integer>> map = new IdentityHashMap<>();
-//        for (int i = 0; i < nums.length; i++) {
-//            List<Integer> list = new ArrayList<>(2);
-//            list.add(0,i);
-//            list.add(1,2);
-//            map.put(nums[i], list);
-//        }
         for (int i = 0; i < nums.length; i++) {
             int result = 0 - nums[i];
             int isRepeat;
@@ -89,7 +82,6 @@ public class ThreeSum {
         }
         return lastList;
     }
-
 
     public List<List<Integer>> threeSum2(int[] nums) {
 
