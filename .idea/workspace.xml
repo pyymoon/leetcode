@@ -2,13 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8142e8e6-8307-4b41-b1a3-717dbf859ac3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/examination/pdd/FindMinVariance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/examination/pdd/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/examination/pdd/NSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examination/byteDance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examination/byteDance/MainBed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examination/tencent/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examination/tencent/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examination/tencent/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examination/tencent/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/examination/tencent/Main5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leetcode/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/MainApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leetcode/medium/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/medium/ThreeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/leetcode/MainApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/leetcode/easy/TwoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/leetcode/medium/ThreeSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/org/swordOffer/PrintListFromTailToHead$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/org/swordOffer/PrintListFromTailToHead.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/org/swordOffer/ReplaceBlank.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,12 +43,24 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/examination/pdd/NSum.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/examination/tencent/Main4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="1517">
+              <caret line="37" column="37" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/examination/tencent/Main2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+              <folding>
+                <element signature="method#getNiXu#0;class#Main2#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,7 +115,6 @@
         <option value="$PROJECT_DIR$/src/com/leetcode/medium/AddOneRow.java" />
         <option value="$PROJECT_DIR$/src/com/examination/byteDance/NumberToOne.java" />
         <option value="$PROJECT_DIR$/src/com/examination/byteDance/FoundMInX.java" />
-        <option value="$PROJECT_DIR$/src/com/examination/byteDance/Main.java" />
         <option value="$PROJECT_DIR$/src/com/examination/byteDance/FoundSamePoint.java" />
         <option value="$PROJECT_DIR$/src/com/examination/byteDance/FindMinX.java" />
         <option value="$PROJECT_DIR$/src/com/examination/byteDance/PrintNumber.java" />
@@ -107,11 +126,18 @@
         <option value="$PROJECT_DIR$/src/com/examination/pdd/findMinFangCha.java" />
         <option value="$PROJECT_DIR$/src/com/examination/pdd/FndMinFangCha.java" />
         <option value="$PROJECT_DIR$/src/com/examination/pdd/FindMinFangCha.java" />
-        <option value="$PROJECT_DIR$/src/com/examination/pdd/FindMinVariance.java" />
         <option value="$PROJECT_DIR$/src/com/examination/pdd/Main.java" />
         <option value="$PROJECT_DIR$/src/com/leetcode/medium/ThreeSum.java" />
         <option value="$PROJECT_DIR$/src/com/examination/pdd/ThreeSum.java" />
         <option value="$PROJECT_DIR$/src/com/examination/pdd/NSum.java" />
+        <option value="$PROJECT_DIR$/src/com/examination/byteDance/MainBed.java" />
+        <option value="$PROJECT_DIR$/src/com/examination/pdd/FindMinVariance.java" />
+        <option value="$PROJECT_DIR$/src/com/examination/byteDance/MainDecode.java" />
+        <option value="$PROJECT_DIR$/src/com/examination/byteDance/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/examination/tencent/tencent.java" />
+        <option value="$PROJECT_DIR$/src/com/examination/tencent/Main1.java" />
+        <option value="$PROJECT_DIR$/src/com/examination/tencent/Main4.java" />
+        <option value="$PROJECT_DIR$/src/com/examination/tencent/Main2.java" />
       </list>
     </option>
   </component>
@@ -123,7 +149,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1940" />
@@ -137,7 +163,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -169,6 +195,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="examination" type="462c0819:PsiDirectoryNode" />
+              <item name="byteDance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="examination" type="462c0819:PsiDirectoryNode" />
               <item name="pdd" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -177,7 +211,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="examination" type="462c0819:PsiDirectoryNode" />
-              <item name="vivo" type="462c0819:PsiDirectoryNode" />
+              <item name="tencent" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -204,7 +238,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -221,7 +255,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -235,39 +269,65 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreeSumMulti">
-    <configuration name="AddNegaBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.medium.AddNegaBinary" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindMinVariance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.examination.pdd.FindMinVariance" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.examination.pdd.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main4">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.examination.pdd.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.examination.byteDance.Main" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.examination.pdd.*" />
+          <option name="PATTERN" value="com.examination.byteDance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.examination.tencent.Main1" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.examination.tencent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.examination.tencent.Main2" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.examination.tencent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.examination.tencent.Main4" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.examination.tencent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainBed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.examination.byteDance.MainBed" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.examination.byteDance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,26 +348,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordDictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.medium.WordDictionary" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main4" />
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.MainBed" />
         <item itemvalue="Application.ThreeSumMulti" />
-        <item itemvalue="Application.FindMinVariance" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.AddNegaBinary" />
-        <item itemvalue="Application.WordDictionary" />
       </list>
     </recent_temporary>
   </component>
@@ -341,7 +388,11 @@
       <workItem from="1563108447544" duration="8400000" />
       <workItem from="1563255692890" duration="2452000" />
       <workItem from="1563540614796" duration="10400000" />
-      <workItem from="1565506353127" duration="6994000" />
+      <workItem from="1565506353127" duration="13623000" />
+      <workItem from="1566039901522" duration="8254000" />
+      <workItem from="1566095385989" duration="156000" />
+      <workItem from="1566095633193" duration="958000" />
+      <workItem from="1566702877821" duration="650000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode">
       <created>1559529285381</created>
@@ -441,11 +492,18 @@
       <option name="project" value="LOCAL" />
       <updated>1563552511602</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="pdd exam">
+      <created>1565513755459</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1565513755459</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108746000" />
+    <option name="totallyTimeSpent" value="125393000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -457,10 +515,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1552" height="880" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20481928" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21524064" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -469,15 +527,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.328877" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.28342247" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4986613" weight="0.44117647" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.2841823" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4986613" weight="0.44101876" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.328877" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32841823" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.328877" />
       <window_info anchor="bottom" id="Docker" order="8" weight="0.328877" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50133866" side_tool="true" weight="0.328877" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3262032" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32573727" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.4986613" weight="0.28743315" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -490,18 +548,22 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="RestServices" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.3297587" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="swordToOffer" />
     <MESSAGE value="sword" />
     <MESSAGE value="vivo" />
     <MESSAGE value="ByteDance" />
     <MESSAGE value="leetcode" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode" />
+    <MESSAGE value="pdd exam" />
+    <option name="LAST_COMMIT_MESSAGE" value="pdd exam" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -668,21 +730,52 @@
           <properties />
           <option name="timeStamp" value="54" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/examination/byteDance/Main.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/examination/tencent/Main1.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/examination/tencent/Main1.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="queue" />
+        <watch expression="stringBuffer.charAt(i)" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leetcode$Main__1_.ic" NAME="Main (1) Coverage Results" MODIFIED="1565521949133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.examination.byteDance.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/leetcode$findMinFangCha.ic" NAME="findMinFangCha Coverage Results" MODIFIED="1565508576861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.examination.pdd.*</FILTER>
     </SUITE>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>stringBuffer.charAt(i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>HG[3|B[2|CA]]F</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>nums[i]</expression-string>
         <language-id>JAVA</language-id>
@@ -696,6 +789,11 @@
       </expression>
     </expressions>
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>sb.charAt(j)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>list.get(i-1)</expression-string>
         <language-id>JAVA</language-id>
@@ -733,11 +831,6 @@
       </expression>
       <expression>
         <expression-string>nums[1713]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>nums[2788]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -884,13 +977,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/examination/byteDance/FoundSamePoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/examination/byteDance/NumberToOne.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -902,13 +988,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/examination/vivo/DeleteElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -984,16 +1063,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/examination/pdd/FindMinVariance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="25" column="49" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/leetcode/medium/ThreeSumClosest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-98">
@@ -1022,6 +1091,85 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/examination/vivo/DeleteElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-524">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/examination/pdd/FindMinVariance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/examination/byteDance/FoundSamePoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/examination/byteDance/MainBed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/examination/byteDance/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/examination/tencent/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/examination/tencent/Main5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/examination/tencent/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="55" column="4" lean-forward="true" selection-start-line="55" selection-start-column="4" selection-end-line="61" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/examination/tencent/Main4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1517">
+          <caret line="37" column="37" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/examination/tencent/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+          <folding>
+            <element signature="method#getNiXu#0;class#Main2#0" />
+          </folding>
         </state>
       </provider>
     </entry>
